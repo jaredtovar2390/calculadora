@@ -26,7 +26,6 @@ namespace calculadora
             //sumar intervalo
             c = a + b;
             Console.Write("la suma es" + c);
-            Console.ReadKey();
 
         }
     }
